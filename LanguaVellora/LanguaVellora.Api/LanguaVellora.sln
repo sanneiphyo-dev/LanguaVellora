@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.37314.3 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguaVellora.Api", "LanguaVellora.Api.csproj", "{8034B1CD-5C36-41CA-BDC8-4A651D14D6A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "languaVellora.Domain", "..\languaVellora.Domain\languaVellora.Domain.csproj", "{627F868F-EF27-4000-AFFF-051B7B1D4307}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguaVellora.Shared", "..\LanguaVellora.Shared\LanguaVellora.Shared.csproj", "{73F0D55E-DE0C-4194-8FAD-BCC40109FD96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{8034B1CD-5C36-41CA-BDC8-4A651D14D6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8034B1CD-5C36-41CA-BDC8-4A651D14D6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8034B1CD-5C36-41CA-BDC8-4A651D14D6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{627F868F-EF27-4000-AFFF-051B7B1D4307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{627F868F-EF27-4000-AFFF-051B7B1D4307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{627F868F-EF27-4000-AFFF-051B7B1D4307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{627F868F-EF27-4000-AFFF-051B7B1D4307}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73F0D55E-DE0C-4194-8FAD-BCC40109FD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F0D55E-DE0C-4194-8FAD-BCC40109FD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F0D55E-DE0C-4194-8FAD-BCC40109FD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F0D55E-DE0C-4194-8FAD-BCC40109FD96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
