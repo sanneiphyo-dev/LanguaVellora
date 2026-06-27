@@ -26,12 +26,12 @@ namespace LanguaVellora.Shared
             return lst;
         }
 
-        public T QueryFirstOrDefault<T>(string query, object? param = null)
-        {
-            using IDbConnection db = new SqlConnection(_connectionString);
-            var item = db.QueryFirstOrDefault<T>(query, param);
-            return item;
-        }
+        //public T QueryFirstOrDefault<T>(string query, object? param = null)
+        //{
+        //    using IDbConnection db = new SqlConnection(_connectionString);
+        //    var item = db.QueryFirstOrDefault<T>(query, param);
+        //    return item;
+        //}
 
         public int Execute(string query, object? param = null)
         {
