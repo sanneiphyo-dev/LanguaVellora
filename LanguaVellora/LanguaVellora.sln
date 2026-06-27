@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.37314.3
+VisualStudioVersion = 17.14.37314.3 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguaVellora.Api", "LanguaVellora.Api.csproj", "{A490D599-FAB4-4642-AEAB-885B3EE0ACD0}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LanguaVellora.Api", "LanguaVellora.Api.csproj", "{8034B1CD-5C36-41CA-BDC8-4A651D14D6A6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{A490D599-FAB4-4642-AEAB-885B3EE0ACD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A490D599-FAB4-4642-AEAB-885B3EE0ACD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A490D599-FAB4-4642-AEAB-885B3EE0ACD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A490D599-FAB4-4642-AEAB-885B3EE0ACD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8034B1CD-5C36-41CA-BDC8-4A651D14D6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8034B1CD-5C36-41CA-BDC8-4A651D14D6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8034B1CD-5C36-41CA-BDC8-4A651D14D6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8034B1CD-5C36-41CA-BDC8-4A651D14D6A6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {52031C9A-FE24-469A-9876-B5B802F31449}
+		SolutionGuid = {5B79E1C6-D785-4452-ACD5-1B9A711DFA4C}
 	EndGlobalSection
 EndGlobal
