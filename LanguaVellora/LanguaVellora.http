@@ -1,0 +1,6 @@
+@LanguaVellora_HostAddress = http://localhost:5125
+
+GET {{LanguaVellora_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
